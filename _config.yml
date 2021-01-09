@@ -1,5 +1,8 @@
-name: Hank Quinlan, Horrible Cop
+title: Harry Latch
+logo: /assets/img/logo.png
+description: The weblog of Harry Latch
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
