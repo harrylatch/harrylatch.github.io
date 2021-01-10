@@ -15,4 +15,5 @@ To learn what, though? Most topics stem, I suppose from a sense of [social ecolo
 This is a new world for me and a different way of talking. So take this introduction as a message in a bottle, thrown into the vast ocean in the hope of making contact. I’m still undecided whether to open this site up to comments, but feel free to contact me if you’d like to talk about anything you read here.
 
 All the best
+
 Harry Latch
