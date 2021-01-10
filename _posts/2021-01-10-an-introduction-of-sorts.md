@@ -6,8 +6,6 @@ author: Harry Latch
 tag: admin
 ---
 
-# An Introduction of Sorts
-
 It seems foolish to state intentions at the start of any project. A blog, after all, will wind like a river through whichever territory that geography and time allows. Who knows what will matter in the months or years to follow, assuming this project itself lasts the first flourish of its existence. Many sites don’t make it. Perhaps the wisest thing would be to post without promises and leave the hypothetical reader to puzzle things out for themselves? But a project must start somewhere and it occurs to me that stating intentions is a good waymarker, to keep me honest and to see how far I’ve travelled.
 
 This introduction aside, this blog aspires to be practical – a place where I learn and then share what I’ve found. This is not unique. Many blogs are built this way. Instead of blogging about blogging, I’d rather engage in a kind of mutual skill exchange. Something like a school, where everybody teaches one another.
