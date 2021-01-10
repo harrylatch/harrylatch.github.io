@@ -1,6 +1,6 @@
 title: Harry Latch
 logo: /assets/img/logo.png
-description: The weblog of Harry Latch
+description: Publishing, art, possible utopias
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 show_downloads: true
