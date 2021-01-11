@@ -7,4 +7,5 @@ title: Harry Latch's Blog
 	  {% for post in site.posts %}
 	    <h2><span>{{ post.date | date_to_string }}</span> • <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
 	    {{ post.content }}
+	    <hr>
 	  {% endfor %}
