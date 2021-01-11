@@ -16,7 +16,7 @@ It is, however, the satisfaction of baking bread that matters here, and regainin
 
 The recipe is vegetarian but check with a vegan first in case they don’t eat yeast. It is not gluten-free.
 
-## What you’ll need
+### What you’ll need
 
 I already had salt, oil, and honey at home, but the other ingredients cost less than £2 and made three big loaves of tasty bread.
 
@@ -30,7 +30,7 @@ I already had salt, oil, and honey at home, but the other ingredients cost less 
 
 - A glass mixing bowl will cost about £5 and plastic versions are available for less. Consider sharing the bowl and tin with a nearby friend or neighbour. A measuring jug and bread board would also be useful.
 
-## How to prepare
+### How to prepare
 
 1. Measure out 50g of bread flour into a mixing bowl. If you don’t have any scales, you could buy a 50g bag. Or, if you have 1.5kg, you can measure the height of the bag and divide by three. Mark the bag a third of the way down and pour out the flour to roughly that point.
 2. Add the yeast and salt to the flour and use your hands to mix them together thoroughly.
@@ -44,7 +44,7 @@ I already had salt, oil, and honey at home, but the other ingredients cost less 
 10. Heat the oven to 200C, 180C for fan ovens, or gas mark 6. Slash the top of the loaf with a sharp knife a couple of times, then bake for 30-35 minutes, until the loaf has risen and browned.
 11. Tip out onto the bread board (or a cooling rack) and tap the bottom. It will have a hollow sound if cooked. Leave it to cool down.
 
-## Bear in mind
+### Bear in mind
 
 These loaves will harden faster than supermarket bread, so either share or halve and freeze. Ask to store in a friend’s freezer if you don’t have one. You can pay them with a fresh loaf.
 
