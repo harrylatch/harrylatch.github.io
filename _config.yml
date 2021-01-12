@@ -1,6 +1,6 @@
 title: Harry Latch
 logo: /assets/img/logo.png
-description: Lo-fi Publishing and Social Ecology
+description: Lo-fidelity Publishing and Social Ecology
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 show_downloads: true
