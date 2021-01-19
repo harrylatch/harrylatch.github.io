@@ -10,7 +10,7 @@ The use of language matters. It shapes the reality, the limits of what seems con
 
 The limits of language are often critiqued, for their role in power structures, for example. But I’m also interested in how expanding language can change one’s perception of reality.
 
-German compound nouns, for example, make abstract states concrete, bringing new chunks of reality into being with nice, crunchy words. The literal translation of *Erkenntnisspaziergang* is something like ‘knowledge walk’, which you’ll recognise if you do most of your thinking on your feet. Naming helps bring a fuzzy feeling into focus, the root of talking therapies. 
+German compound nouns, for example, make abstract states concrete, bringing new chunks of reality into being with nice, crunchy words. In [Ben Schott's neologism](https://newrepublic.com/article/115431/best-new-made-german-words-benn-schotts-schottenfreude "Schottisms"), the literal translation of *Erkenntnisspaziergang* is something like ‘knowledge walk’, which you’ll recognise if you do most of your thinking on your feet. Naming helps bring a fuzzy feeling into focus, the root of talking therapies. 
 
 In fact, this is happening everywhere. In political philosophy, we find the post-growth notion of [zombie energy](http://postgrowth.art "Post-growth zombie energy"), where dead matter threatens to destroy the living. Or the mutual aid concept of [poshterity](https://vimeo.com/393734426 "Poshterity"). 
 
